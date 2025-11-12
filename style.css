@@ -111,3 +111,7 @@ h1, h2 {
   transform: rotate(-15deg); /* Angle the ribbon */
   z-index: 1; /* Ensure it appears above the button */
 }
+h4, h5
+{
+ color: rgb(0, 0, 0); /* Makes right next ot the title color black  */
+}
