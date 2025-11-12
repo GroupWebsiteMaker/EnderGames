@@ -115,3 +115,8 @@ h4, h5
 {
  color: rgb(0, 0, 0); /* Makes right next ot the title color black  */
 }
+
+#time
+{
+  color: rgb(0, 0, 0);
+}
